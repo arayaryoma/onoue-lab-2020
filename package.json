@@ -10,6 +10,6 @@
     "deploy": "fusuma deploy"
   },
   "devDependencies": {
-    "fusuma": "^2.0.0-alpha.18"
+    "fusuma": "^2.0.0-alpha.21"
   }
 }
